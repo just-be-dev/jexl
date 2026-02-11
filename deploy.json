@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/just-be-dev/just-be.dev/refs/heads/main/packages/deploy/schema.json",
+  "rules": [
+    {
+      "subdomain": "jexl",
+      "type": "redirect",
+      "url": "https://just-be.dev/git/jexl"
+    }
+  ]
+}
